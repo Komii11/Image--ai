@@ -1,4 +1,4 @@
-const API_KEY = "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";
+const API_KEY = "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";
 const submitIcon = document.querySelector("#submit-icon");
 const inputElement = document.querySelector("#prompt-input");
 const imageSection = document.querySelector('.images-section')
